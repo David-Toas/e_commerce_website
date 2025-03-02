@@ -33,7 +33,7 @@ const TopProducts = ({ handleOrderPopup }) => {
     <div>
       <div className="container">
         {/* Header Section */}
-        <div className="text-center mb-10 max-w-[600px] mx-auto">
+        <div className="text-center mb-24 max-w-[600px] mx-auto">
           <p data-aos="fade-up" className="text-sm text-primary">
             Top Rated products for you
           </p>
