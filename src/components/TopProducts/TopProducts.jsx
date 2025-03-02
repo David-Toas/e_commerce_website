@@ -41,8 +41,9 @@ const TopProducts = ({ handleOrderPopup }) => {
             Best Products
           </h1>
           <p data-aos="fade-up" className="text-xs text-gray-400">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui debitis
-            laborum consectetur adipisicing sint.
+            The best fashion products combine style, comfort, and quality. 
+            Premium materials like cotton, linen, and wool ensure durability, while trendy designs keep you looking stylish. 
+            From well-tailored suits and elegant dresses to casual streetwear and comfy athleisure, top-tier clothing adapts to various occasions.
           </p>
         </div>
         {/* Body Section */}
