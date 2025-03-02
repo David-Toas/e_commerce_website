@@ -10,21 +10,21 @@ const ProductsData = [
     img: Img1,
     title: "Casual Wear",
     description:
-      "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "Effortlessly stylish and comfortable outfits perfect for everyday activities, from relaxed T-shirts and jeans to chic loungewear",
   },
   {
     id: 2,
     img: Img2,
     title: "Printed shirt",
     description:
-      "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "Bold and vibrant fashion pieces featuring eye-catching patterns, floral designs, and unique prints that make a statement.",
   },
   {
     id: 3,
     img: Img3,
     title: "Women shirt",
     description:
-      "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "A diverse collection of trendy and elegant outfits, from casual dresses to sophisticated evening gowns, tailored to enhance every woman’s style.",
   },
 ];
 
